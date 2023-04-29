@@ -25,6 +25,7 @@ Você pode me encontrar no Instagram ou me enviar um e-mail em otaviobramoz@gmai
 - Amo ler;
 - Amo descobrir coisas novas;
 - Sou prestativo;
+- Amo desenhos animados;
 - Não me irrite e poderemos ser amigos.
 
 Obrigado por visitar meu perfil do GitHub! 😄
@@ -42,7 +43,7 @@ Obrigado por visitar meu perfil do GitHub! 😄
   <br>
 <div>
   
-<img src="https://user-images.githubusercontent.com/115905335/231295658-1b75c35e-fb7d-4f77-8360-e97c25e46ba6.jpg" height="250px" align="right">
+<img src="https://images.universohq.com/2015/10/LigaDaJusticaSemLimites_des.jpg" height="250px" align="right">
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -62,5 +63,3 @@ Obrigado por visitar meu perfil do GitHub! 😄
 
 </div>
 </div>
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aa889&height=100&section=footer"/>
