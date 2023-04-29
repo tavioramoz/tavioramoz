@@ -24,3 +24,7 @@ Você pode me encontrar no Instagram ou me enviar um e-mail em otaviobramoz@gmai
 - Não me irrite e poderemos ser amigos.
 
 Obrigado por visitar meu perfil do GitHub! 😄
+<div> 
+  <a href="https://instagram.com/tavio_ramoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
