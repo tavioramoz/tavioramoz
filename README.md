@@ -33,11 +33,11 @@ Obrigado por visitar meu perfil do GitHub! 😄
 <br>
 <br>
 <div>
- <img align="right" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="200" 
-       src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
+ <img align="right" alt="Otavio-animacao" alt=" " height="200" 
+       src="https://media0.giphy.com/media/euKsxtPWDwi1a/200w.webp?cid=ecf05e47ln84y9qi0k8k6bcf4k53bxj68tg1ist98m51kia9&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-  <img align="left" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="200"
-       src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s">
+  <img align="left" alt="Otavio-animacao" alt=" " height="200"
+       src="https://media4.giphy.com/media/10fS0TJxfFRDLW/giphy.gif?cid=ecf05e47xrv9p6jv93h3k6mrm325t2fml4k7ytpzscm5my4z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tavioramoz&theme=gotham)
