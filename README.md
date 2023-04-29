@@ -32,6 +32,13 @@ Obrigado por visitar meu perfil do GitHub! 😄
 
 <br>
 <br>
+<div>
+ <img align="right" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="200" 
+       src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
+
+  <img align="left" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="200"
+       src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s">
+</div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tavioramoz&theme=gotham)
 
