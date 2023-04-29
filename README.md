@@ -1,18 +1,26 @@
-### Olá, meu nome é Otávio.
-Távio para os íntimos.
-Sejam bem vindos!!👋
+# [Otávio B. Ramos]
 
-<!--
-**tavioramoz/tavioramoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, mundo! 👋
 
-Here are some ideas to get you started:
+Sou [Otávio] e atualmente estou fazendo o curso [Técnico em Informática para Internet]. Sou apaixonado por [animais e leitura] e sempre estou procurando aprender mais sobre [Livros e também sobre tecnologiia].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Estou aprendendo
+
+Atualmente, estou aprendendo [as linguagens de programação PHP, HTML e CSS].
+
+### 💬 Pergunte-me sobre
+
+Se você tiver alguma dúvida sobre [mim ou sobre as minhas postagens], sinta-se à vontade para me perguntar!
+
+### 📫 Como entrar em contato
+
+Você pode me encontrar no [Instagram] ou me enviar um e-mail em [otaviobranoz@gmail.com].
+
+### ⚡ Curiosidades
+
+- [Amo ler]
+- [Amo descobrir coisas novas]
+- [Sou prestativo]
+- [Não me irrite e poderemos ser amigos]
+
+Obrigado por visitar meu perfil do GitHub! 😄
