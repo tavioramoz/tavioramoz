@@ -32,21 +32,28 @@ Obrigado por visitar meu perfil do GitHub! 😄
 
 <br>
 <br>
-<div>
- <img align="right" alt="Otavio-animacao" alt=" " height="200" 
-       src="https://media0.giphy.com/media/euKsxtPWDwi1a/200w.webp?cid=ecf05e47ln84y9qi0k8k6bcf4k53bxj68tg1ist98m51kia9&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-  <img align="left" alt="Otavio-animacao" alt=" " height="200"
-       src="https://media4.giphy.com/media/10fS0TJxfFRDLW/giphy.gif?cid=ecf05e47xrv9p6jv93h3k6mrm325t2fml4k7ytpzscm5my4z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<div align="center">
+           
+ <img align-itens="center" alt="Otavio-animacao" alt=" " height="100" 
+       src="http://www.slconsultoriapublica.com.br/site/images/informacoes.png">
+
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tavioramoz&theme=gotham)
+
+<div>
+ <img align="right" alt="Otavio-animacao" alt=" " height="200" 
+       src="https://media0.giphy.com/media/euKsxtPWDwi1a/200w.webp?cid=ecf05e47ln84y9qi0k8k6bcf4k53bxj68tg1ist98m51kia9&ep=v1_gifs_search&rid=200w.webp&ct=g">
+  <img align="left" alt="Otavio-animacao" alt=" " height="200"
+       src="https://media4.giphy.com/media/10fS0TJxfFRDLW/giphy.gif?cid=ecf05e47xrv9p6jv93h3k6mrm325t2fml4k7ytpzscm5my4z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
 
  ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg) <hr>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tavioramoz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Otavio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavioramoz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavioramoz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
   <br>
@@ -66,7 +73,7 @@ Obrigado por visitar meu perfil do GitHub! 😄
  </div>
   
 <br>  
-<h3 align="left">Cotact:</h3>
+<h3 align="left">Contatos:</h3>
 <div> 
   <a href="https://www.instagram.com/tavio_ramoz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
