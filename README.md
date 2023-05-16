@@ -73,7 +73,7 @@ Obrigado por visitar meu perfil do GitHub! 😄
  </div>
   
 <br>  
-<h3 align="left">Contatos:</h3>
+<h3 align="left">Contacts:</h3>
 <div> 
   <a href="https://www.instagram.com/tavio_ramoz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
