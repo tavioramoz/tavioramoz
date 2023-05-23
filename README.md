@@ -40,8 +40,6 @@ Obrigado por visitar meu perfil do GitHub! 😄
 
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tavioramoz&theme=gotham)
-
 <div>
  <img align="right" alt="Otavio-animacao" alt=" " height="200" 
        src="https://media0.giphy.com/media/euKsxtPWDwi1a/200w.webp?cid=ecf05e47ln84y9qi0k8k6bcf4k53bxj68tg1ist98m51kia9&ep=v1_gifs_search&rid=200w.webp&ct=g">
