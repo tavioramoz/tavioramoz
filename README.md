@@ -33,13 +33,6 @@ Obrigado por visitar meu perfil do GitHub! 😄
 <br>
 <br>
 
-<div align="center">
-           
- <img align-itens="center" alt="Otavio-animacao" alt=" " height="100" 
-       src="http://www.slconsultoriapublica.com.br/site/images/informacoes.png">
-
-</div>
-
 <div>
  <img align="right" alt="Otavio-animacao" alt=" " height="200" 
        src="https://media0.giphy.com/media/euKsxtPWDwi1a/200w.webp?cid=ecf05e47ln84y9qi0k8k6bcf4k53bxj68tg1ist98m51kia9&ep=v1_gifs_search&rid=200w.webp&ct=g">
