@@ -18,7 +18,7 @@ Se você tiver alguma dúvida sobre mim ou sobre as minhas postagens, sinta-se �
 
 ### 📫 Como entrar em contato
 
-Você pode me encontrar no Instagram ou me enviar um e-mail em otaviobramoz@gmail.com.
+Você pode me encontrar no Instagram, no Whatsapp ou me enviar um e-mail.
 
 ### ⚡ Curiosidades
 
@@ -76,6 +76,8 @@ Obrigado por visitar meu perfil do GitHub! 😄
   <a href="https://www.instagram.com/tavio_ramoz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
 target="_blank"></a>
  <a href = "mailto:otaviobramoz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5577981329262?text=Ol%C3%A1%2C+aqui+%C3%A9+Ot%C3%A1vio%21+Voc%C3%AA+deve+ter+vindo+pelo+Git%2C+certo%3F" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=black" 
+target="_blank"></a>
 
 </div>
 </div>
